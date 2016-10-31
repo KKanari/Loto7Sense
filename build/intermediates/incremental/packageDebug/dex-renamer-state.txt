@@ -1,0 +1,7 @@
+#Fri Oct 28 17:21:33 JST 2016
+base.0=C\:\\pleiades\\workspace\\Loto7Sense\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a2eb51f96fd79448702f7be1c433b27918b74419
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\pleiades\\workspace\\Loto7Sense\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bcf077f1d794985524c33427a695ac1763a5df51\\classes.dex
+base.1=C\:\\pleiades\\workspace\\Loto7Sense\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bcf077f1d794985524c33427a695ac1763a5df51
+file.0=C\:\\pleiades\\workspace\\Loto7Sense\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a2eb51f96fd79448702f7be1c433b27918b74419\\classes.dex

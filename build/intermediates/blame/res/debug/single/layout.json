@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\pleiades\\workspace\\Loto7Sense\\build\\intermediates\\res\\merged\\debug\\layout\\opthold.xml",
+        "source": "C:\\pleiades\\workspace\\Loto7Sense\\res\\layout\\opthold.xml"
+    },
+    {
+        "merged": "C:\\pleiades\\workspace\\Loto7Sense\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\pleiades\\workspace\\Loto7Sense\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\pleiades\\workspace\\Loto7Sense\\build\\intermediates\\res\\merged\\debug\\layout\\selected.xml",
+        "source": "C:\\pleiades\\workspace\\Loto7Sense\\res\\layout\\selected.xml"
+    },
+    {
+        "merged": "C:\\pleiades\\workspace\\Loto7Sense\\build\\intermediates\\res\\merged\\debug\\layout\\custom_layout.xml",
+        "source": "C:\\pleiades\\workspace\\Loto7Sense\\res\\layout\\custom_layout.xml"
+    },
+    {
+        "merged": "C:\\pleiades\\workspace\\Loto7Sense\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "C:\\pleiades\\workspace\\Loto7Sense\\res\\layout\\setting.xml"
+    }
+]

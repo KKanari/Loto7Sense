@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="707972678398692"
+    token="-4510875740232511644"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3457" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1503" />
+    <task
+        name="verifier"
+        duration="414" />
+
+    <artifact
+        location="C:\pleiades\workspace\Loto7Sense\build\outputs\apk\Loto7Sense-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="707972678398692"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\pleiades\workspace\Loto7Sense\build\outputs\apk\Loto7Sense-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

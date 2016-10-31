@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\pleiades\workspace\Loto7Sense\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\pleiades\workspace\Loto7Sense\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_72de778ecdf70624a09ee1d20314360017d9cb46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\pleiades\workspace\Loto7Sense\libs\jna-platform-4.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="C:\pleiades\workspace\Loto7Sense\build\intermediates\transforms\dex\debug\folders\1000\2\jna-platform-4.1.0_5bda43a3caab99c1ba5f9e4cc0bd66f963b6af06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\pleiades\workspace\Loto7Sense\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\pleiades\workspace\Loto7Sense\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_5df887c87e7dcef23868e154525da9077c16ed90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\pleiades\workspace\Loto7Sense\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\pleiades\workspace\Loto7Sense\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_edebc37323eaddedb112f5c64342571539107cfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\pleiades\workspace\Loto7Sense\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\pleiades\workspace\Loto7Sense\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_8bff4a73d276f02ce3e18135101d79905301eb1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\pleiades\workspace\Loto7Sense\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7af4cc5f46d2340834f955694533b81bcdd08cf8">
+        <dex dex="C:\pleiades\workspace\Loto7Sense\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bcf077f1d794985524c33427a695ac1763a5df51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kms2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\pleiades\workspace\Loto7Sense\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_9196ed554301d7ef627e3105b687c2ebb48498e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\pleiades\workspace\Loto7Sense\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f1049e3927173858ca22443c3529237bc2722da9">
+        <dex dex="C:\pleiades\workspace\Loto7Sense\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a2eb51f96fd79448702f7be1c433b27918b74419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\pleiades\workspace\Loto7Sense\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
+        <dex dex="C:\pleiades\workspace\Loto7Sense\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_577490d7074180ba7c8b34847e76f90b9c91a622\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\pleiades\workspace\Loto7Sense\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\pleiades\workspace\Loto7Sense\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_37b08d2fde425ea46aa4991e9e770d708e7cb647\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory android:title="抽選番号表示">
+	<ListPreference android:entries="@array/loto_viewcnt" android:title="表示数設定" android:entryValues="@array/loto_viewcnt" android:dialogTitle="抽選番号表示数設定" android:key="list_cnt" android:defaultValue="@string/def_view_cnt"></ListPreference>
+	<ListPreference android:entries="@array/loto_speed" android:title="表示スピード設定" android:entryValues="@array/loto_speed" android:dialogTitle="抽選番号表示スピード設定" android:key="list_speed" android:defaultValue="@string/def_view_speed"></ListPreference>
+</PreferenceCategory>
+<PreferenceCategory android:title="抽選番号予想">
+	<ListPreference android:entries="@array/loto_sense" android:entryValues="@array/loto_sense" android:key="list_sense" android:defaultValue="@string/def_sense_type" android:title="予想方法設定" android:dialogTitle="抽選番号予想方法設定"></ListPreference>
+</PreferenceCategory>
+</PreferenceScreen>

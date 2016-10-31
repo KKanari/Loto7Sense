@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loto7Sense</string>
+
+
+<string name="app_mode">pay</string>
+    <string name="menu_setting">OPTION</string>
+<string name="menu_hold">HOLD</string><string name="lbl_msg01">7Sense</string>
+<string name="menu_select">SAVE NUMBERS</string>
+
+<string name="lbl_hold_info">選択した数字を含んだ予想をします。</string><string name="url_file">http://www.kms2.co.jp/android/loto7sense/dat/lotoDat.dat</string>
+
+
+<string name="dat_timer">100</string>
+<string name="msg_warning_nofile">最新抽選番号ファイルへのアクセスが出来ませんでした。</string>
+
+<string name="msg_error_system">システムエラーが発生しました。処理を中断します</string>
+
+<string name="msg_error_database">端末内部メモリの空き容量が足りません。</string><string name="def_view_cnt">5</string>
+<string name="def_view_speed">速い</string>
+<string name="def_sense_type">過去抽選結果から予想</string>
+<string name="action_settings">Settings</string>
+
+
+<string name="def_repeat_cnt">10000</string>
+</resources>

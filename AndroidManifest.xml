@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.apl.Loto7Sense"
+      android:versionCode="1"
+      android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light" android:largeHeap="false" android:supportsRtl="false">
+
+        <!-- メイン画面 -->
+        <activity android:name="com.apl.Loto7Sense.Loto7Sense"
+                  android:label="@string/app_name"
+                  android:configChanges="orientation|keyboardHidden">
+            <intent-filter>
+                <!-- このActivity（画面）はこのアプリのトップ画面ですという意味 -->
+                <action android:name="android.intent.action.MAIN" />
+                <!-- このActivity（画面）を立ち上げる為のアイコンをアプリ一覧の中に表示しますという意味 -->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 数値設定画面 -->
+        <activity android:name="com.apl.Loto7Sense.LotoOptHold"></activity>
+
+        <!-- 設定画面 -->
+        <activity android:name="com.apl.Loto7Sense.LotoSetting"></activity><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+
+        <!-- 選択番号確認画面 -->
+        <activity android:name="com.apl.Loto7Sense.LotoSelected"></activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+    </application>
+
+	<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <uses-permission android:name="com.sony.smallapp.permission.SMALLAPP" />
+    <uses-library android:name="com.sony.smallapp.framework" />
+    <service android:name="SampleSmallApp" android:exported="true"/>
+
+
+</manifest>
